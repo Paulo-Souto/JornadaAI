@@ -1,0 +1,2 @@
+# JornadaAI
+JornadaAI - imersão EBAC
